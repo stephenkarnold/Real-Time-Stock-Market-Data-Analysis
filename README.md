@@ -1,4 +1,4 @@
-#Real-time Stock Market Data Analysis
+# Real-time Stock Market Data Analysis
 
 This project aims to create an end-to-end data engineering project on real-time stock market data using Kafka.
 
